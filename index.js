@@ -4,7 +4,7 @@ let num1=31;
 let num2=2;
 let multiply = num1*num2;
 
-let random = Math.random() + 0.1;
+let random = Math.random();
 
 let num3=20;
 let num4=8;
