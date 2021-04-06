@@ -9,3 +9,5 @@ let random = Math.random() + 0.1;
 let num3=20;
 let num4=8;
 let mod = num3%num4;
+
+let max = Math.max(1,5,8,20);
